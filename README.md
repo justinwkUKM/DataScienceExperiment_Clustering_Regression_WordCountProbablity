@@ -1,5 +1,12 @@
 # DataScienceExperiment Clustering Regression and WordCountProbablity
 
+There were three tasks in total, two mandatory and one bonus. I have experimented with all. You can find three jupyter notebooks containing the solutions for each task.  The solutions notebooks are named as Task1, Task2 and Task3 respectively.
+
+In addition to that I have also performed the experiments on azure cloud as expected. Please find my experiments which shows the respective task solutions. I have also deployed the predictive web services in azure cloud for testing purposes. You can also find these on Azure AI Gallery:
+https://gallery.azure.ai/Experiment/Task-1-Ingredients-CSV-Waqas-Obeidy-08-12-2019-Predictive-Exp
+https://gallery.azure.ai/Experiment/Task-2-Palm-FFB-Waqas-Obeidy-09-12-2019
+
+# Tasks
 Analytics Evaluation Instructions :
  Q1 & Q2 are mandatory, Q3 is bonus if attempted.
  Do the analytics in cloud where possible (free trial versions).
